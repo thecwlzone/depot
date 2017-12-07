@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The Depot code example from Agile Web Development with Rails 5.1 by Ruby
+and Copeland, published by The Pragmattic Programmers
 
-Things you may want to cover:
+I'll be using this repo to stay on top of Rails 5 features, since my
+professional work is still in Rails 4
 
-* Ruby version
+Current Status:
 
-* System dependencies
+* Ruby 2.4.1
 
-* Configuration
+* Still working through the initial tutorial
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Commentary (if any) will be on my [blog](http://www.thecwlzone.com/blog/)
