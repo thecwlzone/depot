@@ -1,7 +1,7 @@
 # README
 
 The Depot code example from Agile Web Development with Rails 5.1 by Ruby
-and Copeland, published by The Pragmattic Programmers.
+and Copeland, published by The Pragmatic Programmers.
 
 I'll be using this repo to stay on top of Rails 5 features, since my
 professional work is still in Rails 4.
