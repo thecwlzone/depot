@@ -5,11 +5,11 @@ AllCops:
   Exclude:
     - db/schema.rb
     - db/migrate/*.rb
-    - bin/rails
-    - bin/rake
-    - bin/spring
+    - db/seeds.rb
+    - "bin/*"
     - "vendor/**/*"
     - "*.gemspec"
+    - "node_modules/**/*"
   TargetRubyVersion: 2.4
 
 Bundler/OrderedGems:
