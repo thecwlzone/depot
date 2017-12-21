@@ -8,8 +8,10 @@ professional work is still in Rails 4.
 
 Current Status:
 
+* Rails 5.1.4
+
 * Ruby 2.4.1
 
-* Still working through the initial tutorial
+* Dec-21-2017 - Initial code development is complete
 
 * Commentary (if any) will be on my [blog](http://www.thecwlzone.com/blog/)
