@@ -6,15 +6,16 @@ and Copeland, published by The Pragmatic Programmers.
 I'll be using this repo to stay on top of Rails 5 features, since my
 professional work is still in Rails 4.
 
-Current Status:
+Current Status Dec-21-2017:
 
 * Try me out on [Heroku](https://agile-island-15604.herokuapp.com/)
+
 Use at your own risk. 8>)
 
 * Rails 5.1.4
 
 * Ruby 2.4.1
 
-* Dec-21-2017 - Initial code development is complete
+* Initial code development is complete. All tests pass.
 
-* Commentary (if any) will be on my [blog](http://www.thecwlzone.com/blog/)
+* Commentary will be on my [blog](http://www.thecwlzone.com/blog/)
