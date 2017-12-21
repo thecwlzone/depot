@@ -23,7 +23,3 @@ development:
 test:
   <<: *default
   database: depot_test
-
-production:
-  <<: *default
-  database: depot_production
