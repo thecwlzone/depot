@@ -8,7 +8,7 @@ professional work is still in Rails 4.
 
 Current Status:
 
-* Try me out on [Heroku]([https://agile-island-15604.herokuapp.com/)
+* Try me out on [Heroku](https://agile-island-15604.herokuapp.com/)
 Use at your own risk. 8>)
 
 * Rails 5.1.4
