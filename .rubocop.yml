@@ -1,16 +1,17 @@
 AllCops:
   Include:
+    - Gemfile
     - Rakefile
     - lib/**/*.rake
   Exclude:
     - db/schema.rb
     - db/migrate/*.rb
-    - db/seeds.rb
-    - "bin/*"
+    - bin/rails
+    - bin/rake
+    - bin/spring
     - "vendor/**/*"
     - "*.gemspec"
-    - "node_modules/**/*"
-  TargetRubyVersion: 2.4
+  TargetRubyVersion: 2.3
 
 Bundler/OrderedGems:
   Enabled: false

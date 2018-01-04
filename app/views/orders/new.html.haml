@@ -1,0 +1,6 @@
+%h1 New Order
+%section.depot_form
+  %h1= t('.legend')
+  = render 'form', order: @order
+= link_to 'Back', orders_path
+= javascript_pack_tag("pay_type")
