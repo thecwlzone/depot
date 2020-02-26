@@ -32,7 +32,7 @@ class LineItemsControllerTest < ActionDispatch::IntegrationTest
                            xhr: true
     end
     assert_response :success
-    assert_match /<tr class=\\"line-item-highlight/, @response.body
+    assert_match (/<tr class=\\"line-item-highlight/), @response.body
   end
 
   test "should show line_item" do

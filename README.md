@@ -1,21 +1,12 @@
 # README
 
-The Depot code example from Agile Web Development with Rails 5.1 by Ruby
-and Copeland, published by The Pragmatic Programmers.
+The Depot code example from Agile Web Development with Rails 5.2
 
-I'll be using this repo to stay on top of Rails 5 features, since my
-professional work is still in Rails 4.
+Current Status 26 Feb 2020
 
-Current Status Dec-21-2017:
+* Rails 5.2.x
 
-* Try me out on [Heroku](https://agile-island-15604.herokuapp.com/)
+* Ruby 2.6.5
 
-Use at your own risk. 8>)
-
-* Rails 5.1.4
-
-* Ruby 2.4.1
-
-* Initial code development is complete. All tests pass.
-
-* Commentary will be on my [blog](http://www.thecwlzone.com/blog/)
+* Failure: LineItemsControllerTest#test_should_create_line_item_via_ajax
+* 50 runs, 93 assertions, 1 failures, 0 errors, 0 skips
